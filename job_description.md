@@ -9,6 +9,6 @@
 + 应用开发：Agent、RAG、Langchain、WebGPT等。我们在快速持续迭代 Agent 能力，作为大模型应用的下一跳，我们在多个项目中持续孵化落地Agent 能力。
 
 公司级主航道核心业务，目前大模型领域快速发展中，可以做的事情很多，团队氛围务实高效，技术能够快速成长，机会多多。
-当前校招进行中，感兴趣欢迎发送简历到邮箱 guixianjin@huawei.com  或者 guixj@lamda.nju.edu.cn 三天内回复。
+本帖持续产期有效，感兴趣欢迎发送简历到邮箱 guixianjin@huawei.com 或者 guixj@lamda.nju.edu.cn 三天内回复。
 
 base 上海、深圳、北京、南京、杭州均有岗位。
